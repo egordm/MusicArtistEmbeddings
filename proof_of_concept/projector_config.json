@@ -1,0 +1,14 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Proof of Concept Musical Artist Embeddings",
+      "tensorShape": [
+        31001,
+        64
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/EgorDm/MusicArtistEmbeddings/master/proof_of_concept/embeddings.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/EgorDm/MusicArtistEmbeddings/master/proof_of_concept/meta.tsv",
+      "bookmarksPath": "https://raw.githubusercontent.com/EgorDm/MusicArtistEmbeddings/master/proof_of_concept/bookmarks.txt"
+    }
+  ]
+} 
